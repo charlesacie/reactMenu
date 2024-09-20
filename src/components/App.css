@@ -89,7 +89,7 @@ body {
   
   .menu-container button {
     padding: 10px 20px;
-    background-color: white;
+    background-color: greenyellow;
     border: 1px solid #ff6600;
     color: #ff6600;
     cursor: pointer;
@@ -164,7 +164,7 @@ button {
   margin-top: 10px;
   padding: 10px 20px;
   background-color: #ff6600;
-  color: white;
+  color: greenyellow;
   border: none;
   cursor: pointer;
 }
